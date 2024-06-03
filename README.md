@@ -7,7 +7,7 @@
 </h1>
 <p align="center"> 
   
-<p align="center"> A Multi Device Whatsapp Bot Create By Trideb Majumder To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Multi Device Whatsapp Bot Create By Trideb Majumder To Do Everything That Is Possible On WhatsApp(clone of King-MD
  
   </a>
 </p>
