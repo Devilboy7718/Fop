@@ -23,7 +23,7 @@
 
 
    <p align="center">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
+  <a href="https://github.com/Devilboy7718/Fop/fork">
     <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
    
   <a href="https://github.com/naveeddogar/KING-MD/stargazers">
